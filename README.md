@@ -7,6 +7,4 @@ La selección
 Las crónicas de Narnia
 Los juegos del hambre: Sinsajo I
 Titanic
-Born to die
-The Black Parade
-Wings
+
